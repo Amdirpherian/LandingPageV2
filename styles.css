@@ -1,0 +1,16 @@
+
+
+.textbg {
+  background: #5A5655;
+}
+
+.monacofont {
+   font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+}
+.contacts {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  margin:10px;
+  width:200px;
+}
