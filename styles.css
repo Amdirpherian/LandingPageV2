@@ -6,6 +6,12 @@
    font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
 }
 
+.aboutmediv {
+    display:flex;
+    justify-content: start;
+    margin:25px;
+}
+
 .headertextshadow {
   text-shadow: 3px 3px #c16266;
 }
@@ -29,12 +35,13 @@
   position:relative;
   left:17rem;
   border-radius: 1.5625rem;
+  border-radius: 50%;
 }
 
 .captionpos{
   display:flex;
   width:fit-content;
-  margin-left:315px;
+  margin-left:307px;
 }
 
 
